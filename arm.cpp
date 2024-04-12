@@ -1,4 +1,4 @@
-#inckude<iostream.h>
+#include<iostream.h>
 using namespaces std;
 int main()
 {
